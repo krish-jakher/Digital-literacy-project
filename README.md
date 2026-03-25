@@ -19,7 +19,7 @@ This project develops digital literacy skills through online tools, professional
 Created a digital literacy awareness infographic using Canva covering safe internet practices, digital tools, and professional presence.
 
 ### 🔹 Task 2 – Digital Portfolio
-Set up profiles on GitHub, LinkedIn, and HackerRank to build a professional digital identity.
+Set up profiles on GitHub, LinkedIn, and Research Gate to build a professional digital identity.
 
 ### 🔹 Task 3 – Platforms
 Completed a coding challenge on HackerRank and created a Google Form for digital literacy awareness.
@@ -33,10 +33,9 @@ Prepared a phishing case study and a prevention checklist to promote online safe
 ---
 
 ## 🔗 Useful Links
-- 📊 Google Form: [Paste your link here]
-- 🎨 Canva Infographic: [Paste your link here]
-- 💻 GitHub Profile: [Your GitHub link]
-- 💼 LinkedIn Profile: [Your LinkedIn link]
+- 📊 Google Form: [https://docs.google.com/forms/d/e/1FAIpQLSc8z_9L0GIlv-jZY-QzfgLklN99fWkQf79HgLgDFwK4wqCUNw/viewform?usp=publish-editor]
+- 🎨 Prezi Infographic: [https://prezi.com/view/lq9OV5dU3xgeH6FC5GSk/?referral_token=voE5BtlnB3FN]
+- 💼 LinkedIn Profile: [https://www.linkedin.com/in/krish-jakher-46864428a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 ---
 
